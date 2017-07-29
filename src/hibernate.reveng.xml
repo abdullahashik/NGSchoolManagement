@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="school_mng" match-name="books"/>
+  <table-filter match-catalog="school_mng" match-name="classes"/>
+  <table-filter match-catalog="school_mng" match-name="designations"/>
+  <table-filter match-catalog="school_mng" match-name="exam_category"/>
+  <table-filter match-catalog="school_mng" match-name="exam_result"/>
+  <table-filter match-catalog="school_mng" match-name="exam_routine"/>
+  <table-filter match-catalog="school_mng" match-name="exam_summary_result"/>
+  <table-filter match-catalog="school_mng" match-name="exams"/>
+  <table-filter match-catalog="school_mng" match-name="fees"/>
+  <table-filter match-catalog="school_mng" match-name="files"/>
+  <table-filter match-catalog="school_mng" match-name="gallary"/>
+  <table-filter match-catalog="school_mng" match-name="gurdians"/>
+  <table-filter match-catalog="school_mng" match-name="notice"/>
+  <table-filter match-catalog="school_mng" match-name="notice_file_role"/>
+  <table-filter match-catalog="school_mng" match-name="permission"/>
+  <table-filter match-catalog="school_mng" match-name="post"/>
+  <table-filter match-catalog="school_mng" match-name="post_file_role"/>
+  <table-filter match-catalog="school_mng" match-name="role_permission"/>
+  <table-filter match-catalog="school_mng" match-name="role_user"/>
+  <table-filter match-catalog="school_mng" match-name="roles"/>
+  <table-filter match-catalog="school_mng" match-name="rooms"/>
+  <table-filter match-catalog="school_mng" match-name="routine"/>
+  <table-filter match-catalog="school_mng" match-name="staff"/>
+  <table-filter match-catalog="school_mng" match-name="staff_designation_rel"/>
+  <table-filter match-catalog="school_mng" match-name="student_gurdial_rels"/>
+  <table-filter match-catalog="school_mng" match-name="student_payments"/>
+  <table-filter match-catalog="school_mng" match-name="student_status"/>
+  <table-filter match-catalog="school_mng" match-name="students"/>
+  <table-filter match-catalog="school_mng" match-name="subjects"/>
+  <table-filter match-catalog="school_mng" match-name="users"/>
+  <table-filter match-catalog="school_mng" match-name="vacations"/>
+</hibernate-reverse-engineering>
